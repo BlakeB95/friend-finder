@@ -5,8 +5,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Home</title>
+    <link rel="stylesheet" href="/public/assets/css/reset.css">
+    <link rel="stylesheet" href="/public/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/public/assets/css/style.css">
+    <script src="https://kit.fontawesome.com/fc8678bbb6.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </head>
 <body>
-    <h3>hi!</h3>
+    <div class="container mt-5">
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container ml-5">
+              <h1 class="display-2"><i class="fab fa-facebook-square"></i> Friend Finder</h1>
+              <p class="lead border-top border-primary mr-5"><br>Answer a few basic questions.
+                Then find the friend with the greatest compatibility!</p>
+                <a href="/survey"><button type="button" class="btn btn-primary mt-2"><i class="far fa-address-card"></i> Start the Survey</button></a>
+            </div>
+        </div>
+    </div>
+    <div class="container mx-auto">
+        <div class="btn-group dropright">
+            <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Links 
+            </button></a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="/api/friends" target="_blank" >API Friends List </a>
+                <a class="dropdown-item" href="https://github.com/BlakeB95/friend-finder" target="_blank" >Github Repo <i class="fas fa-external-link-alt"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(".dropdown-toggle").dropdown();
+    </script>
 </body>
 </html>
