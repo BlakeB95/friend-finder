@@ -1,7 +1,9 @@
 body {
     background-image: url("../images/bg.jpg");
-    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 #surveyHead {
@@ -17,3 +19,5 @@ body {
 h4 {
     margin-top: 15px;
 }
+
+.container > div > img {    width: 100%;    height: 100%;    object-fit: cover;}

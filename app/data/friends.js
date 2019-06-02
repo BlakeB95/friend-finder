@@ -1,7 +1,7 @@
 var friends = [
     {
     "name": "Ahmed",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    "photo": "https://images.stockfreeimages.com/467/sfi226w/4677877.jpg",
     "scores": [
     "5",
     "1",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
     "name": "Jacob Deming",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "photo": "https://images.stockfreeimages.com/508/sfi226w/5086969.jpg",
     "scores": [
     "4",
     "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
     "name": "Jeremiah Scanlon",
-    "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    "photo": "https://images.stockfreeimages.com/609/sfi226w/6094718.jpg",
     "scores": [
     "5",
     "2",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
     "name": "Lou Ritter",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    "photo": "https://images.stockfreeimages.com/779/sfi226w/7798773.jpg",
     "scores": [
     "4",
     "3",
@@ -81,7 +81,7 @@ var friends = [
     },
     {
     "name": "Jordan Biason",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    "photo": "https://images.stockfreeimages.com/998/sfi226w/9984169.jpg",
     "scores": [
     "4",
     "4",
@@ -193,7 +193,7 @@ var friends = [
     },
     {
     "name": "silva fgf",
-    "photo": "https://friend-finder-fsf.herokuapp.com/survey",
+    "photo": "https://thumbs.dreamstime.com/t/old-man-28348152.jpg",
     "scores": [
     "2",
     "2",
@@ -288,56 +288,8 @@ var friends = [
     ]
     },
     {
-    "name": "mike",
-    "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.biography.com%2F.image%2Ft_share%2FMTQ3Mzg3NDQ3MTU0NTgyNzIx%2Fkiller_mike_photo_by_ray_tamarra_getty_images_entertainment_getty_71590557.jpg&imgrefurl=https%3A%2F%2Fwww.biography.com%2Fpeople%2Fkiller-mike-5102017&docid=wEOAb9DhNA-lwM&tbnid=yObFoEgFWp8e3M%3A&vet=10ahUKEwiB-d3SrMbiAhWFpZ4KHS2EBkwQMwh0KAEwAQ..i&w=1200&h=1200&bih=789&biw=1440&q=mike&ved=0ahUKEwiB-d3SrMbiAhWFpZ4KHS2EBkwQMwh0KAEwAQ&iact=mrc&uact=8",
-    "scores": [
-    "2",
-    "3",
-    "3",
-    "3",
-    "3",
-    "5",
-    "4",
-    "4",
-    "1",
-    "3"
-    ]
-    },
-    {
-    "name": "mike",
-    "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.biography.com%2F.image%2Ft_share%2FMTQ3Mzg3NDQ3MTU0NTgyNzIx%2Fkiller_mike_photo_by_ray_tamarra_getty_images_entertainment_getty_71590557.jpg&imgrefurl=https%3A%2F%2Fwww.biography.com%2Fpeople%2Fkiller-mike-5102017&docid=wEOAb9DhNA-lwM&tbnid=yObFoEgFWp8e3M%3A&vet=10ahUKEwiB-d3SrMbiAhWFpZ4KHS2EBkwQMwh0KAEwAQ..i&w=1200&h=1200&bih=789&biw=1440&q=mike&ved=0ahUKEwiB-d3SrMbiAhWFpZ4KHS2EBkwQMwh0KAEwAQ&iact=mrc&uact=8",
-    "scores": [
-    "2",
-    "3",
-    "3",
-    "3",
-    "3",
-    "5",
-    "4",
-    "4",
-    "1",
-    "3"
-    ]
-    },
-    {
-    "name": "asfsadfasd",
-    "photo": "asdfasdfdsaf",
-    "scores": [
-    "3",
-    "3",
-    "2",
-    "1",
-    "2",
-    "3",
-    "1",
-    "2",
-    "2",
-    "2"
-    ]
-    },
-    {
     "name": "Doug",
-    "photo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEBAQEBIPEBAPDQ8PEBAPDw8PDxAPFRUWFhYRFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGy0lHx8tLS0tLSstLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMIBAwMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAAAQIDBAUGB//EADkQAAEEAAQDBgQFAwMFAAAAAAEAAgMRBBIhMQVBUQYTImFxgZGhwfAyQlKx0QcUIxVi8SQ0cpKi/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAKhEAAgICAgEDAwQDAQAAAAAAAAECEQMhEjFBBBNRImGBMnGh0ZGx4QX/2gAMAwEAAhEDEQA/APiyEJWqIJJIQgKBJNJAwKSChAAFJJNAAhMBSATEASKdIpAhtVjQqwrWlZyGiQakWqYKiSstjKyFEqwqBWkWAkWkUlYhFRKZSTGRKSkUigBIQhAAhCEAJCEIAEIQgCaSaSAGmkE0ACipJUgBITpMBAAEwkmECJAKbWqLVvwUF8rJ2VJWZZJ8UZDGVAhd/HcFlj1OVwI3Y7MB5FYP9NkP5d1Thq0ZxypOmc9MLrQcFtwDnV1obLTxHs0WUYnh7as5tHD+Vm4mqyROGCmuvhuzr3XmkYyhpo51qpvAZzqAxwura9pHqoUHLopzijmqJC14nAvj/ELHVuoWYpU0Umn0VqLlJygStAIFCRQgY1EqTWk7aoc0jdMVkEJpJDBJCEDBCEIAEIQgCashhLj5KNLZAKCqKtmWSVLRogwrCCCNevNYMThyw1y5Hqt7DzHurZGB4o89j0K1lBNaOWOSUZW+jjhqeVWvjLTR3CVLlbO4rpFKylq4dgu9dqDlGpP0TjcnSInNQVsowuAklvu2OdW5Gy6cfAaLc",
+    "photo": "https://images.stockfreeimages.com/316/sfi226w/3169646.jpg",
     "scores": [
     "1",
     "3",
@@ -349,22 +301,6 @@ var friends = [
     "4",
     "2",
     "4"
-    ]
-    },
-    {
-    "name": "Peter Lau",
-    "photo": "pasldf",
-    "scores": [
-    "3",
-    "2",
-    "4",
-    "3",
-    "5",
-    "1",
-    "4",
-    "2",
-    "3",
-    "1"
     ]
     },
     {
